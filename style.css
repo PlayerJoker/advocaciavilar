@@ -1,0 +1,402 @@
+
+.navbar {
+    background-color:#1f324f;   
+    text-align: center;
+  }
+  
+  .nav-link {
+      color: white;
+      margin-left: 30px;
+      margin-right: 30px;
+  }
+  
+  .dropdown-item {
+      color: white;
+      text-align: center;
+      padding: 10px;
+  }
+  
+  .dropdown-item:hover {
+      color: #9f8436;
+      background-color: #1B2C46;
+      
+  }
+  h6 {
+      color: white;
+  }
+  
+  h6:hover {
+      color: #9f8436;
+  }
+  
+  .centro {
+      text-align: center;
+      margin-top: 50px;
+  }
+  
+  @media (min-width: 980px) {
+      .slides {
+      height: 400px;
+  }
+  }
+  
+  @media (max-width: 600px) {
+      .slides {
+      height: 150px;
+      width: 100%;
+  }
+  }
+  
+  .prima {
+      margin-top: 50px;
+  }
+  
+  footer {
+      background-color: #1B2C46;
+      padding: 2rem;
+  }
+  
+  .rodape{
+      text-decoration: none;
+      color: white;
+  }
+  
+  .linke {
+      text-decoration: none;
+      color: white;
+  }
+  
+  .linke:hover {
+      color: burlywood;   
+  }
+  
+  .textCenter {
+      text-align: center
+  }
+  
+  .areas1 { 
+  padding: 20px;
+  margin: 10px;
+  text-decoration: none;
+  color: #1B2C46; 
+  }
+  
+  .areas1:hover {
+      color: white;  
+      background-color: #1B2C46;
+      border-radius: 20px;
+      box-shadow: 0px 0px 15px #1B2C46;
+  }
+  
+  .areas2[href^="oEscritorio.html#doutor1"] {
+      text-decoration: none;
+      color: #1B2C46;
+      border-radius: 20px;
+      margin-bottom: 30px;
+      padding-top: 60px;
+      padding-bottom: 60px ;
+  }
+  
+  .areas2[href^="oEscritorio.html#doutor2"] {
+      text-decoration: none;
+      color: #1B2C46;
+      border-radius: 20px;
+      margin-bottom: 30px;
+      padding-top: 60px;
+      padding-bottom: 60px ;
+  }
+  
+  .areas2[href^="oEscritorio.html#doutor3"] {
+      text-decoration: none;
+      color: #1B2C46;
+      border-radius: 20px;
+      margin-bottom: 30px;
+      padding-top: 60px;
+      padding-bottom: 60px ;
+  }
+  
+  .areas2:hover {
+      color: white;  
+      background-color: #1B2C46;
+      box-shadow: 0px 0px 15px #0910e0;
+  }
+  
+  .espaco {
+      margin-top: 20px;
+  }
+  
+  .textop {
+      margin-bottom: 20px;
+      
+  }
+  
+  .rostos {
+      text-align: center;
+      margin-top: 30px;
+  }
+  
+  .parag01 {
+      text-align: justify;
+  }
+  
+  .iconeJust {
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  
+  h2 {
+      color: #9f8436 ;
+  }
+  
+  .box {
+      width: 50%;
+      float: left;
+      height: 80px;/*Altura da linha*/
+     }
+       
+  .logo01 {
+      width: 150px;
+  }
+  
+  .centerH6 {
+      margin-top: 10px;
+      margin-bottom: -5px;
+  }
+  
+  .justT {
+   width: 100px;  
+   margin-top: 20px; 
+   margin-bottom: -80px;
+  }
+  
+  .just {
+      margin-left: 290px;
+  }
+  
+  .just2 {
+      margin-left: 150px;
+  }
+  
+  @media (max-width: 990px) {
+      .justT {
+          width: 100px;  
+         }  
+  
+      .just {
+          margin-left: 10%;
+      }
+      
+      .just2 {  
+       visibility: hidden;
+      }
+  
+  }
+  
+  .nos {
+      width: 50px;
+      margin-top: 30px ;
+      margin-left: 200px;
+      
+  }
+  
+  .nos2 {
+      text-align: center;
+      margin-top: -40px;
+      margin-bottom: -10px;
+  }
+  
+  @media (max-width: 990px) {
+      .nos {
+          margin-left: auto;
+          margin-right: auto;
+          margin-bottom: 10px;
+          width: 50px;
+      }
+      #nosQ {
+          width: 400px; 
+          margin-top: -15px;   
+      }
+  }
+  
+  #nosQ {
+      width: 60px;
+      margin-left: -200px;
+      margin-bottom: -50px;
+      margin-top: -10px;
+  }
+  
+  .areaSomos {
+      color: white;  
+      background-color: #1B2C46;
+      border-radius: 30px;
+      box-shadow: 0px 0px 10px black;
+      padding-left: 50px;
+     padding-right: 50px;
+     padding-bottom: 50px;
+     
+  }
+  
+  .areaDir {
+      border-radius: 20px;
+      box-shadow: 0px 0px 10px #1B2C46;
+      padding-left: 40px;
+      padding-right: 40px ;
+      padding-top: 30px ;
+      padding-bottom: 20px ;
+      color: white;  
+      background-color: #1B2C46; 
+  }
+  
+  @media (max-width: 990px) {
+      .areaDir {
+          box-shadow: 0px 0px 0px #1B2C46;
+      }
+  }
+  
+  .areaDout {
+      border-radius: 20px;
+      box-shadow: 0px 0px 10px #1B2C46;
+      padding-left: 40px;
+      padding-right: 40px ;
+      padding-top: 30px ;
+      padding-bottom: 20px ;
+      color: white;  
+      background-color: #1B2C46;
+      margin-bottom: 30px;
+  }
+  
+  .areaSob {
+      border-radius: 20px;
+      box-shadow: 0px 0px 10px #1B2C46;
+      padding-left: 40px;
+      padding-right: 40px ;
+      padding-top: 30px ;
+      padding-bottom: 20px ;
+      margin-bottom: 30px;
+  }
+  
+  .leiaM {
+      text-decoration: none;
+      color: white;
+  }
+  
+  .leiaM:hover {
+      color: white;
+  }
+  
+  .rostosP {
+      padding-top: 20px;
+      padding-bottom: 20px ;
+  }
+   
+  @media (max-width: 990px) {
+      .areas2[href^="oEscritorio.html#doutor1"] {
+          text-decoration: none;
+          color: #1B2C46;
+          border-radius: 20px;
+          margin-bottom: 30px;
+          padding-top: 10px;
+          padding-bottom: 10px ;
+      }
+  
+      .areas2[href^="oEscritorio.html#doutor2"] {
+          text-decoration: none;
+          color: #1B2C46;
+          border-radius: 20px;
+          margin-bottom: 30px;
+          padding-top: 10px;
+          padding-bottom: 10px ;
+      }
+  
+      .areas2[href^="oEscritorio.html#doutor3"] {
+          text-decoration: none;
+          color: #1B2C46;
+          border-radius: 20px;
+          margin-bottom: 30px;
+          padding-top: 10px;
+          padding-bottom: 10px ;
+      }
+  }
+  
+  .imG1 {
+      width: 70px;
+      margin-right: 280px;
+      margin-bottom: -40px;
+  }
+  
+  .imG1t {
+      width: 75px;
+      margin-right: 330px;
+      margin-bottom: -40px;
+  }
+  
+  .imG1tr {
+      width: 75px;
+      margin-right: 350px;
+      margin-bottom: -45px;
+  }
+  
+  .imG1e {
+      width: 70px;
+      margin-right: 350px;
+      margin-bottom: -40px;
+  }
+  
+  @media (max-width: 990px) {
+      #dTra {
+          font-size: 21px;
+      }
+  
+       .imG1tr {
+          width: 60px; 
+      } 
+      
+      .imG1e {
+          width: 60px;
+      }
+  }
+  
+  .saiba {
+      font-size: 10px;
+  }
+  
+/** Seção Sobre o Advogado **/
+
+
+.texto-adv{
+
+	padding-top: 40px;
+	font-family: Cambria,Georgia,serif;  
+}
+
+
+.img-adv{
+
+	margin-top: 45px;
+	text-align: center;
+}
+
+
+.img-adv img{
+
+	width: 300px;
+	height: 300px;
+	border-radius: 300px;
+}
+
+
+.sobre-adv{
+
+	padding-top: 20px;
+	padding-bottom: 40px;
+	/*background-color: #f5f5f5;*/
+    background-color: white;
+    padding-left: 140px;
+}
+
+.mytext{
+    color: blue;
+    font-size: larger;
+}
+
+ 
