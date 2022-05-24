@@ -14,7 +14,8 @@
 </head>
 
 <body>
-    <header id="topo10">
+
+    <header id="topo11">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.html"><img class="logo01" src="imagens/logoadvocaciavilar.png" alt=""></a>
@@ -48,12 +49,12 @@
                                         <h6>Direito de Familia</h6>
                                     </a></li>
                                 <li><a class="dropdown-item" href="diretitoContratos.html">
-                                        <h6>Contratos</h6>
+                                        <h6>Direito Contratos</h6>
                                     </a></li>
                                 <li><a class="dropdown-item" href="direitoTrabalhista.html">
                                         <h6>Direito Trabalhista</h6>
                                     </a></li>
-                              
+                             
                             </ul>
                         </li>
                         <li class="nav-item">
@@ -61,7 +62,9 @@
                                 <h6>Contato</h6>
                             </a>
                         </li>
-                      
+        
+                            </a>
+                        </li>
                     </ul>
 
                 </div>
@@ -71,47 +74,50 @@
 
     </header>
 
-    <div class=" textAn container">
+
+    <div class="textAn container">
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div data-aos="fade" class="col-sm-10 areaDir centro">
-                <img data-aos="fade-left" class="imG1" src="imagens/dCivel.png" alt="">
-                <h2 style=" margin-bottom: 30px;">Direito Cível </br> e consumidor</h2>
+                <img data-aos="fade-left" class="imG1e" src="images/dEmpresa.png" alt="">
+                <h2 id="dTra" style=" margin-bottom: 30px;">Direito Empresarial</h2>
                 <div data-aos="fade">
                     <p class="parag01 textAnP">
-                        - Pedido ou defesa de indenizações morais e materiais;
+                        O direito empresarial, muitas vezes chamado de Direito Comercial, tem como objetivo justamente
+                        cuidar do exercício da atividade econômica organizada de fornecimento de bens ou serviços, que é
+                        a
+                        chamada empresa. Além disso, é importante ressaltar que o seu objeto de estudo é resolver os
+                        conflitos de interesses envolvendo empresários ou relacionados às empresas que eles exploram.
                     </p>
                     <p class="parag01 textAnP">
-                        - Ações de consumo individuais e coletivas;
+                        No que se refere a Constituição Federal, a carta magna dispôs que a exploração de atividades
+                        econômicas deve ser atribuída à iniciativa privada. Portanto, aos particulares fica o papel
+                        primordial, reservando ao Estado apenas uma função supletiva.
+                    </p>
+
+                    <h5>Conceito de sociedade empresária</h5>
+
+
+                    <p class="parag01 textAnP">
+
+                        O conceito de sociedade empresária é fundamental para entender toda a sistemática do direito
+                        empresarial. Se você quer saber tudo de direito empresarial, precisa conhecer bem a sociedade
+                        empresária.
                     </p>
                     <p class="parag01 textAnP">
-                       - Crimes contra o consumidor;
+                        A definição está no artigo 982 e no artigo 966 do Código Civil, que considera “empresária” a
+                        sociedade de quem exerce atividade própria de empresário. Ou seja, daquele que realiza
+                        profissionalmente atividade econômica organizada para a produção ou a circulação de bens ou de
+                        serviços.
                     </p>
-                    <p class="parag01 textAnP">
-                       - Pareceres jurídicos;
-                    </p>
-                    <p class="parag01 textAnP">
-                       - Recuperação de Crédito e quitação de débitos;
-                    </p>
-                    <p class="parag01 textAnP">
-                        - Ações de cobrança e despejo;
-                     </p>
-                     <p class="parag01 textAnP">
-                        - Direito Condominial;
-                     </p>
-                     <p class="parag01 textAnP">
-                        - Direitos de Vizinhança;
-                     </p>
                 </div>
 
-                <img data-aos="fade-up" class="iconeJust" src="imagens/logoadvocaciavilar.png" alt="ícone da justiça">
+                <img data-aos="fade-up" class="iconeJust" src="images/logo.png" alt="ícone da justiça">
             </div>
             <div class="col-sm-1"></div>
 
-
         </div>
-
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
@@ -133,11 +139,9 @@
                       <h6 class="centerH6"> Endereço:</h6>
                     </li>
                     <li>
-                        <a class="linke"
-                        href="https://www.google.com/maps/place/Mogi+das+Cruzes+-+SP/@-23.5564891,
-                        -46.3269471,11z/data=!3m1!4b1!4m5!3m4!1s0x94cdd81269172647:0xb3859ba7fe8bbb07!8m2!3d-23.5393849!
-                        4d-46.216729"
-                        target="_blank"> Mogi das Cruzes/SP
+                      <a class="linke"
+                        href="https://www.google.com/maps?q=sao+paulo&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjamsvdg771AhWNILkGHZVAACYQ_AUoAnoECAIQBA"
+                        target="_blank"> São Paulo/SP
                       </a>
                     </li>
         
@@ -147,51 +151,42 @@
                     <li>
                       <h6 class="centerH6">Telefone:</h6>
                     </li>
-                    <li class="linke"> 11 94332-3940</li>
+                    <li class="linke"> 11 995795705</li>
         
                     <li>
                       <h6 class="centerH6">E-mail:</h6>
                     </li>
                     <a class="linke"
-                    href="mailto:advocaciavilar.sp@gmail.com?Subject=Título%20da%20mensagem">advocaciavilar.sp@gmail.com
+                    href="mailto:ronaldoborges0706@outlook.com?Subject=Título%20da%20mensagem">ronaldoborges0706@outlook.com
                   </a>
-        
         
                   </ul>
                 </div>
                 <div class="col-sm-4">
-                    <ul class="list-unstyled">
-                      <li>
-                        <h6 class="center">Redes Sociais</h6>
-                      </li>
-                      <li> <a class="linke" href="https://www.instagram.com/advogado.vilar/" target="_blank"><img class="linke"
-                            src="imagens/iconeInsta.png" onmouseover="this.src='imagens/iconeInsta2.png'"
-                            onmouseout="this.src='imagens/iconeInsta.png'" alt="icone "> </a>
-          
-                            <!-- 
-                            <a class="linke" href="https://www.facebook.com" target="_blank"><img src="imagens/iconeFace.png"
-                            onmouseover="this.src='imagens/iconeFace2.png'" onmouseout="this.src='imagens/iconeFace.png'"
-                            alt=""></a>
-                            -->
-          
-                            <a class="linke" href="https://wa.me/5511943323940?text=Olá%20gostaria%20de%20consultar%20um%20Advogado,%20Poderia%20me%20ajudar?%20" 
-                              target="_blank"><img src="imagens/whatsapp.png"
-                              onmouseover="this.src='imagens/whatsapp.png'" onmouseout="this.src='imagens/whatsapp.png'"
-                              alt=""></a>
-                      </li>
-                      
-          
-                    </ul>
-                  </div>
+                  <ul class="list-unstyled">
+                    <li>
+                      <h6 class="center">Redes Sociais</h6>
+                    </li>
+                    <li> <a class="linke" href="https://www.instagram.com" target="_blank"><img class="linke"
+                          src="images/iconeInsta.png" onmouseover="this.src='images/iconeInsta2.png'"
+                          onmouseout="this.src='images/iconeInsta.png'" alt="icone "> </a>
+        
+                      <a class="linke" href="https://www.facebook.com" target="_blank"><img src="images/iconeFace.png"
+                          onmouseover="this.src='images/iconeFace2.png'" onmouseout="this.src='images/iconeFace.png'"
+                          alt=""></a>
+                    </li>
+        
+                  </ul>
+                </div>
                 <div class="col-sm-1"></div>
                 <div class="textCenter">
         
                   <ul class="list-unstyled">
-                                <li> Advocacia Vilar <small> &copy; Todos os direitos reservados  </small> </li>
+                    <li> <small> &copy; R. Magalhães  </small> </li>
                   </ul>
                 </div>
-                <a href="index.html#topo"> <img src="imagens/topo.png" alt=""> </a>
-              </div>
+                <a href="index.html#topo"> <img src="images/topo.png" alt=""> </a>
+            </div>
 
         </div>
     </footer>

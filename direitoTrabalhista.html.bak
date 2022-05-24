@@ -14,7 +14,8 @@
 </head>
 
 <body>
-    <header id="topo10">
+
+    <header id="topo13">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.html"><img class="logo01" src="imagens/logoadvocaciavilar.png" alt=""></a>
@@ -53,7 +54,7 @@
                                 <li><a class="dropdown-item" href="direitoTrabalhista.html">
                                         <h6>Direito Trabalhista</h6>
                                     </a></li>
-                              
+                
                             </ul>
                         </li>
                         <li class="nav-item">
@@ -61,54 +62,53 @@
                                 <h6>Contato</h6>
                             </a>
                         </li>
-                      
+                       
                     </ul>
 
                 </div>
             </div>
         </nav>
 
-
     </header>
 
-    <div class=" textAn container">
+    <div class="textAn container">
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div data-aos="fade" class="col-sm-10 areaDir centro">
-                <img data-aos="fade-left" class="imG1" src="imagens/dCivel.png" alt="">
-                <h2 style=" margin-bottom: 30px;">Direito Cível </br> e consumidor</h2>
+                <img data-aos="fade-left" class="imG1tr" src="imagens/dTri.png" alt="">
+                <h2 id="dTra" style=" margin-bottom: 30px;">Direito Trabalhista</h2>
                 <div data-aos="fade">
                     <p class="parag01 textAnP">
-                        - Pedido ou defesa de indenizações morais e materiais;
+                       - Assessoria e consultas preventivas visando evitar demandas judiciais</br></br>                            
                     </p>
                     <p class="parag01 textAnP">
-                        - Ações de consumo individuais e coletivas;
+                      - Acidentes de trabalho.</br></br
                     </p>
                     <p class="parag01 textAnP">
-                       - Crimes contra o consumidor;
+                      - Reclamações trabalhistas individuais e coletivas.</br></br>
                     </p>
                     <p class="parag01 textAnP">
-                       - Pareceres jurídicos;
+                      - Terceirização de serviços e contratação de fornecedores.</br></br>
                     </p>
                     <p class="parag01 textAnP">
-                       - Recuperação de Crédito e quitação de débitos;
+                       - Contratação e desligamento de empregados.</br></br>
                     </p>
                     <p class="parag01 textAnP">
-                        - Ações de cobrança e despejo;
-                     </p>
-                     <p class="parag01 textAnP">
-                        - Direito Condominial;
-                     </p>
-                     <p class="parag01 textAnP">
-                        - Direitos de Vizinhança;
-                     </p>
+                       - Estabilidade.</br></br>
+                    </p>
+                    <p class="parag01 textAnP">
+                       - Estabilidade.</br></br>
+                    </p>
+                    <p class="parag01 textAnP">
+                      -  Reversão de Justa Causa.</br></br>
+                    </p>
+                    
                 </div>
 
                 <img data-aos="fade-up" class="iconeJust" src="imagens/logoadvocaciavilar.png" alt="ícone da justiça">
             </div>
             <div class="col-sm-1"></div>
-
 
         </div>
 
@@ -123,41 +123,40 @@
 
     <footer class="text-white">
         <div class="container-fluid">
-
             <div class="row">
                 <div class="col-sm-2"></div>
                 <div class="col-sm-5">
-                  <ul class="list-unstyled">
-        
-                    <li>
-                      <h6 class="centerH6"> Endereço:</h6>
-                    </li>
-                    <li>
+                    <ul class="list-unstyled">
+
+                        <li>
+                            <h6 class="centerH6"> Endereço:</h6>
+                        </li>
+                        <li>
+                            <a class="linke"
+                            href="https://www.google.com/maps/place/Mogi+das+Cruzes+-+SP/@-23.5564891,
+                            -46.3269471,11z/data=!3m1!4b1!4m5!3m4!1s0x94cdd81269172647:0xb3859ba7fe8bbb07!8m2!3d-23.5393849!
+                            4d-46.216729"
+                            target="_blank"> Mogi das Cruzes/SP
+                            </a>
+                        </li>
+
+
+
+
+                        <li>
+                            <h6 class="centerH6">Telefone:</h6>
+                        </li>
+                        <li class="linke"> 11 94332-3940</li>
+
+                        <li>
+                            <h6 class="centerH6">E-mail:</h6>
+                        </li>
                         <a class="linke"
-                        href="https://www.google.com/maps/place/Mogi+das+Cruzes+-+SP/@-23.5564891,
-                        -46.3269471,11z/data=!3m1!4b1!4m5!3m4!1s0x94cdd81269172647:0xb3859ba7fe8bbb07!8m2!3d-23.5393849!
-                        4d-46.216729"
-                        target="_blank"> Mogi das Cruzes/SP
+                        href="mailto:advocaciavilar.sp@gmail.com?Subject=Título%20da%20mensagem">advocaciavilar.sp@gmail.com
                       </a>
-                    </li>
-        
-        
-        
-        
-                    <li>
-                      <h6 class="centerH6">Telefone:</h6>
-                    </li>
-                    <li class="linke"> 11 94332-3940</li>
-        
-                    <li>
-                      <h6 class="centerH6">E-mail:</h6>
-                    </li>
-                    <a class="linke"
-                    href="mailto:advocaciavilar.sp@gmail.com?Subject=Título%20da%20mensagem">advocaciavilar.sp@gmail.com
-                  </a>
-        
-        
-                  </ul>
+
+
+                    </ul>
                 </div>
                 <div class="col-sm-4">
                     <ul class="list-unstyled">
@@ -185,13 +184,13 @@
                   </div>
                 <div class="col-sm-1"></div>
                 <div class="textCenter">
-        
-                  <ul class="list-unstyled">
-                                <li> Advocacia Vilar <small> &copy; Todos os direitos reservados  </small> </li>
-                  </ul>
+
+                    <ul class="list-unstyled">
+                        <li> <small> &copy; Advocacia Vilar  </small> </li>
+                    </ul>
                 </div>
-                <a href="index.html#topo"> <img src="imagens/topo.png" alt=""> </a>
-              </div>
+                <a href="index.html#topo"> <img src="images/topo.png" alt=""> </a>
+            </div>
 
         </div>
     </footer>

@@ -15,7 +15,7 @@
 
 <body>
 
-    <header>
+    <header id="topo1">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.html"><img class="logo01" src="imagens/logoadvocaciavilar.png" alt=""></a>
@@ -46,15 +46,15 @@
                                         <h6>Direito Cível</h6>
                                     </a></li>
                                 <li><a class="dropdown-item" href="direitoFamilia.html">
-                                        <h6>Direito de Familia</h6>
+                                        <h6>Direito da Familia</h6>
                                     </a></li>
                                 <li><a class="dropdown-item" href="diretitoContratos.html">
-                                        <h6>Contratos </h6>
+                                        <h6>Direito Tributário</h6>
                                     </a></li>
                                 <li><a class="dropdown-item" href="direitoTrabalhista.html">
                                         <h6>Direito Trabalhista</h6>
                                     </a></li>
-                              
+                               
                             </ul>
                         </li>
                         <li class="nav-item">
@@ -62,7 +62,7 @@
                                 <h6>Contato</h6>
                             </a>
                         </li>
-                        
+                    
                     </ul>
 
                 </div>
@@ -72,6 +72,93 @@
 
     </header>
 
+    <div class="textAn container">
+
+        <div class="row">
+            
+            <div data-aos="fade-up" class="col-sm-12 areaSob centro">
+                <img data-aos="fade-left" id="nosQ" src="imagens/nos2.png" alt="">
+                <h2  style=" margin-bottom: 30px; margin-top: -10px;" >Sobre</h2>
+                <p data-aos="fade-up" class="parag01">
+                    Somos um escritório de advocacia que concentra suas atividades em áreas específicas do Direito, 
+                    tais como a Trabalhista e a Cível, proporcionando dessa maneira serviços jurídicos com alto padrão de qualidade,
+                    excelência, e agilidade.
+                </p>
+                <p data-aos="fade-up" class="parag01">
+                    Nossos clientes contam com o atendimento humanizado e personalizado, baseado sempre em diálogo, atenção e empatia.
+                </p>
+            </div>
+            
+
+        </div>
+    </div>
+
+    <div class="container textAn rostos centro">
+
+
+        <div class="row">
+            <!---->
+            <div data-aos="fade-up" class="col-sm-12 areaDout" id="doutor1">
+                <img class="rounded-circle" src="imagens/brunovilar.jpg" alt="Generic placeholder image" width="140"
+                    height="140">
+                <h2>Doutor Bruno Vilar</h2>
+                <p class="parag01">Advogado com inscrição na Ordem dos Advogados do Brasil (OAB– SP) sob o nº 464.797 , 
+                    Especializado nas áreas Trabalhista e Cível, Pós Graduando em Direito Cível pela FMP-RS, 
+                    com diversos cursos de Especialização pela renomada FGV, 
+                    além de produto de conteúdo jurídico.</p>
+            </div>
+
+
+        <!--
+        </div>
+
+        <div class="row">
+            
+            <div data-aos="fade-up" class="col-sm-12 areaDout" id="doutor2">
+                <img class="rounded-circle" src="imagens/fotoHomem.png" alt="Generic placeholder image" width="140"
+                    height="140">
+                <h2>Doutor 2</h2>
+                <p class="parag01">Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor
+                    id nibh
+                    ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+                    Praesent commodo cursus magnaonec sed odio dui. Etiam porta sem malesuada magna mollis euismod.
+                    Nullam id dolor id nibh
+                    ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+                    Praesent commodo cursus magna.onec sed odio dui. Etiam porta sem malesuada magna mollis euismod.
+                    Nullam id dolor id nibh
+                    ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+                    Praesent commodo cursus magna..</p>
+            </div>
+
+
+            
+        </div>
+
+        <div class="row">
+            
+            <div data-aos="fade-up" class="col-sm-12 areaDout" id="doutor3">
+                <img class="rounded-circle" src="imagens/fotoMulher.png" alt="Generic placeholder image" width="140"
+                    height="140">
+                <h2>Doutor 3</h2>
+                <p class="parag01">Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor
+                    id nibh
+                    ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+                    Praesent commodo cursus magnaonec sed odio dui. Etiam porta sem malesuada magna mollis euismod.
+                    Nullam id dolor id nibh
+                    ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+                    Praesent commodo cursus magna.onec sed odio dui. Etiam porta sem malesuada magna mollis euismod.
+                    Nullam id dolor id nibh
+                    ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+                    Praesent commodo cursus magna..</p>
+            </div>
+             -->
+
+            
+        </div>
+
+
+    </div>
+
     <div class="row">
         <div class="col-sm-1"></div>
         <div class="col-sm-10">
@@ -80,9 +167,8 @@
         <div class="col-sm-1"></div>
     </div>
 
-    <footer data-aos="fade-up" class="text-white">
+    <footer class="text-white">
         <div class="container-fluid">
-
             <div class="row">
                 <div class="col-sm-2"></div>
                 <div class="col-sm-5">
@@ -106,7 +192,7 @@
                     <li>
                       <h6 class="centerH6">Telefone:</h6>
                     </li>
-                    <li class="linke"> 11 995795705</li>
+                    <li class="linke"> 11 94332-3940</li>
         
                     <li>
                       <h6 class="centerH6">E-mail:</h6>
@@ -127,9 +213,9 @@
                           src="imagens/iconeInsta.png" onmouseover="this.src='imagens/iconeInsta2.png'"
                           onmouseout="this.src='imagens/iconeInsta.png'" alt="icone "> </a>
                         <!--
-                      <a class="linke" href="https://www.facebook.com" target="_blank"><img src="imagens/iconeFace.png"
+                      <a class="linke" href="https://www.facebook.com" target="_blank"><img src="images/iconeFace.png"
                           onmouseover="this.src='imagens/iconeFace2.png'" onmouseout="this.src='imagens/iconeFace.png'"
-                          alt=""></a>-->
+                          alt=""></a> -->
 
                           <a class="linke" href="https://wa.me/5511943323940?text=Olá%20gostaria%20de%20consultar%20um%20Advogado,%20Poderia%20me%20ajudar?%20" 
                              target="_blank"><img src="imagens/whatsapp.png"
@@ -143,10 +229,10 @@
                 <div class="textCenter">
         
                   <ul class="list-unstyled">
-                               <li> Advocacia Vilar <small> &copy; Todos os direitos reservados  </small> </li>
+                    <li> <small> &copy; Advocacia Vilar </small> </li>
                   </ul>
                 </div>
-                <a href="index.html#topo"> <img src="images/topo.png" alt=""> </a>
+                <a href="index.html#topo"> <img src="imagens/topo.png" alt=""> </a>
               </div>
 
         </div>
